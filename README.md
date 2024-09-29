@@ -6,3 +6,5 @@ During this project, we will predict the variable "Track Popularity" from the Sp
 Data: https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs  
 
 Data Dictionary: https://developer.spotify.com/documentation/web-api/reference/get-an-artists-top-tracks 
+
+Group members: Maggie Crowner, Ella Thomasson, Amirah Hossein, Dana Pham, Lauren Turner
